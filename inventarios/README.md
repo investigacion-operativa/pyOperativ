@@ -1,0 +1,2 @@
+# inventarios
+Gestión de inventarios
