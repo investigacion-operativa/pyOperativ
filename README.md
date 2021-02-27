@@ -11,6 +11,7 @@ Este repositorio contiene casos prácticos, implementaciones didácticas y ejerc
 
 ### Cadenas de Markov
 * [Algoritmo PageRank](https://github.com/investigacion-operativa/pyOperativ/blob/main/markov/caso_google_pagerank/caso_google_pagerank)
+* [Ejercicios y ejemplos](https://github.com/investigacion-operativa/pyOperativ/tree/main/markov/ejercicios)
 
 ### Filas de espera
 * [Caso Carrefour: M/M/1 vs M/M/S](https://github.com/investigacion-operativa/pyOperativ/blob/main/filas/caso_carrefour/mm1vsmms_analitico.ipynb)
