@@ -13,7 +13,8 @@ Este repositorio contiene casos prácticos, implementaciones didácticas y ejerc
 * [Algoritmo PageRank](https://github.com/investigacion-operativa/pyOperativ/blob/main/markov/caso_google_pagerank/caso_google_pagerank)
 
 ### Filas de espera
-
+* [Caso Carrefour: M/M/1 vs M/M/S](https://github.com/investigacion-operativa/pyOperativ/blob/main/filas/caso_carrefour/mm1vsmms_analitico.ipynb)
+* [Caso de filas complejas con Monte Carlo](https://github.com/investigacion-operativa/pyOperativ/blob/main/filas/caso_fila_compleja/simulacion_fila_compleja.ipynb)
 
 ### Optimización: programación matemática
 * [Optimización de plan agregado de Producción (MILP)](https://github.com/investigacion-operativa/pyOperativ/blob/main/programacion_matematica/caso_planificacion_agregada/planificacion.ipynb)
