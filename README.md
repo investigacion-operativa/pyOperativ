@@ -1,4 +1,4 @@
-# *pyOperativ: casos prácticos de Investigación Operativa UTN.BA*
+# *pyOperativ: Investigación Operativa con Python*
 Este repositorio contiene casos prácticos, implementaciones didácticas y ejercicios relacionados con el campo de la Investigación Operativa. Los casos fueron resueltos usando Jupyter Notebook en Python y no tienen el objetivo de ser implementaciones con código optimizado.
 
 ## Contenido:
@@ -21,6 +21,6 @@ Este repositorio contiene casos prácticos, implementaciones didácticas y ejerc
 * [Ejercicios y ejemplos](https://github.com/investigacion-operativa/pyOperativ/tree/main/programacion_matematica/ejercicios)
 
 ### Inventarios
-* [Implementación básica monoproducto]()
+* [Implementación básica monoproducto](https://github.com/investigacion-operativa/pyOperativ/blob/main/inventarios/caso_monoproducto/monoproducto.ipynb)
 * [Implementación básica multi-ítem de 2 productos](https://github.com/investigacion-operativa/pyOperativ/blob/main/inventarios/caso_multiproducto/multiproducto.ipynb)
 * [Multi-ítem con restricción de espacio](https://github.com/investigacion-operativa/pyOperativ/blob/main/inventarios/caso_restriccion_espacio/restriccion_espacio.ipynb)
