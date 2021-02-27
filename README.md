@@ -1,4 +1,4 @@
-# *pyOperativ: Investigación Operativa con Python*
+# *pyOperativ UTN.BA: Investigación Operativa con Python*
 Este repositorio contiene casos prácticos, implementaciones didácticas y ejercicios relacionados con el campo de la Investigación Operativa. Los casos fueron resueltos usando Jupyter Notebook en Python y no tienen el objetivo de ser implementaciones con código optimizado.
 
 ## Contenido:
