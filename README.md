@@ -8,13 +8,14 @@ Este repositorio contiene casos prácticos, implementaciones didácticas y ejerc
 * [Sampleo de distribución exponencial](https://github.com/investigacion-operativa/pyOperativ/blob/main/simulacion/caso_simulacion_exponencial/simulacion_exponencial.ipynb)
 * [Ajuste de distribución](https://github.com/investigacion-operativa/pyOperativ/blob/main/simulacion/fit_distribucion_lugones/exponential_fit.ipynb)
 * [Línea de terminado de Tesla Motors](https://github.com/investigacion-operativa/pyOperativ/blob/main/simulacion/caso_linea_tesla/ejemplo_simulacion.ipynb)
+* [Ejercicios y ejemplos](https://github.com/investigacion-operativa/pyOperativ/tree/main/simulacion/ejercicios)
 
 ### Cadenas de Markov
 * [Algoritmo PageRank](https://github.com/investigacion-operativa/pyOperativ/blob/main/markov/caso_google_pagerank/caso_google_pagerank)
 * [Ejercicios y ejemplos](https://github.com/investigacion-operativa/pyOperativ/tree/main/markov/ejercicios)
 
 ### Filas de espera
-* [Caso Carrefour: M/M/1 vs M/M/S](https://github.com/investigacion-operativa/pyOperativ/blob/main/filas/caso_carrefour/mm1vsmms_analitico.ipynb)
+* [Caso Carrefour: M/M/1 vs M/M/S](https://github.com/investigacion-operativa/pyOperativ/blob/main/filas/caso_carrefour/carrefour_ejemplo.ipynb)
 * [Caso de filas complejas con Monte Carlo](https://github.com/investigacion-operativa/pyOperativ/blob/main/filas/caso_fila_compleja/simulacion_fila_compleja.ipynb)
 
 ### Optimización: programación matemática
