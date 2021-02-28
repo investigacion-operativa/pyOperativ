@@ -27,3 +27,6 @@ Este repositorio contiene casos prácticos, implementaciones didácticas y ejerc
 * [Implementación básica monoproducto](https://github.com/investigacion-operativa/pyOperativ/blob/main/inventarios/caso_monoproducto/monoproducto.ipynb)
 * [Implementación básica multi-ítem de 2 productos](https://github.com/investigacion-operativa/pyOperativ/blob/main/inventarios/caso_multiproducto/multiproducto.ipynb)
 * [Multi-ítem con restricción de espacio](https://github.com/investigacion-operativa/pyOperativ/blob/main/inventarios/caso_restriccion_espacio/restriccion_espacio.ipynb)
+
+### Logística
+* [Modelo de Transporte de Flujo de Mínimo Costo](https://github.com/investigacion-operativa/pyOperativ/blob/main/logistica/caso_transporte/transporte_programacion_matematica.ipynb)
