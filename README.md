@@ -14,6 +14,9 @@ Este repositorio contiene casos prácticos, implementaciones didácticas y ejerc
 * [Algoritmo PageRank](https://github.com/investigacion-operativa/pyOperativ/blob/main/markov/caso_google_pagerank/caso_google_pagerank.ipynb)
 * [Ejercicios y ejemplos](https://github.com/investigacion-operativa/pyOperativ/tree/main/markov/ejercicios)
 
+### Grafos
+* [Shortest Path: armando mi propio Google Maps](https://github.com/investigacion-operativa/pyOperativ/tree/main/grafos/graph_search_maps.ipynb)
+
 ### Filas de espera
 * [Caso Carrefour: M/M/1 vs M/M/S](https://github.com/investigacion-operativa/pyOperativ/blob/main/filas/caso_carrefour/carrefour_ejemplo.ipynb)
 * [Caso de filas complejas con Monte Carlo](https://github.com/investigacion-operativa/pyOperativ/blob/main/filas/caso_fila_compleja/simulacion_fila_compleja.ipynb)
