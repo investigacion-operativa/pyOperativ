@@ -3,6 +3,10 @@ Este repositorio contiene casos prácticos, implementaciones didácticas y ejerc
 
 ## Contenido:
 
+### Tutoriales de Python
+* [Guía Anaconda y primeros pasos en Python](https://github.com/investigacion-operativa/pyOperativ/blob/main/01_intro_python/instalar_python_jupyter.pdf)
+* [Notebook primeros pasos en Python](https://github.com/investigacion-operativa/pyOperativ/blob/main/01_intro_python/python_primeros_pasos.ipynb)
+
 ### Simulación industrial
 
 * [Sampleo de distribución exponencial](https://github.com/investigacion-operativa/pyOperativ/blob/main/simulacion/caso_simulacion_exponencial/simulacion_exponencial.ipynb)
