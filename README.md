@@ -19,7 +19,7 @@ Este repositorio contiene casos prácticos, implementaciones didácticas y ejerc
 * [Ejercicios y ejemplos](https://github.com/investigacion-operativa/pyOperativ/tree/main/markov/ejercicios)
 
 ### Grafos
-* [Shortest Path: armando mi propio Google Maps](https://github.com/investigacion-operativa/pyOperativ/tree/main/grafos/graph_search_maps.ipynb)
+* [Shortest Path: armando mi propio Google Maps](https://github.com/investigacion-operativa/pyOperativ/blob/main/grafos/shortest_path_maps/graph_search_maps.ipynb)
 
 ### Filas de espera
 * [Caso Carrefour: M/M/1 vs M/M/S](https://github.com/investigacion-operativa/pyOperativ/blob/main/filas/caso_carrefour/carrefour_ejemplo.ipynb)
