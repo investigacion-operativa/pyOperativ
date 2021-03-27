@@ -9,6 +9,7 @@ Este repositorio contiene casos prácticos, implementaciones didácticas y ejerc
 
 ### Simulación industrial
 
+* [Métodos de sampleo](https://github.com/investigacion-operativa/pyOperativ/tree/main/simulacion/metodos_sampleo)
 * [Sampleo de distribución exponencial](https://github.com/investigacion-operativa/pyOperativ/blob/main/simulacion/caso_simulacion_exponencial/simulacion_exponencial.ipynb)
 * [Ajuste de distribución](https://github.com/investigacion-operativa/pyOperativ/blob/main/simulacion/fit_distribucion_lugones/exponential_fit.ipynb)
 * [Línea de terminado de Tesla Motors](https://github.com/investigacion-operativa/pyOperativ/blob/main/simulacion/caso_linea_tesla/ejemplo_simulacion.ipynb)
