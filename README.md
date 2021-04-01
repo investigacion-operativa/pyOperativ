@@ -7,6 +7,9 @@ Este repositorio contiene casos prácticos, implementaciones didácticas y ejerc
 * [Guía Anaconda y primeros pasos en Python](https://github.com/investigacion-operativa/pyOperativ/blob/main/01_intro_python/instalar_python_jupyter.pdf)
 * [Notebook primeros pasos en Python](https://github.com/investigacion-operativa/pyOperativ/blob/main/01_intro_python/python_primeros_pasos.ipynb)
 
+### Repaso
+* [Repaso de probabilidad](https://github.com/investigacion-operativa/pyOperativ/tree/main/repaso)
+
 ### Simulación industrial
 
 * [Métodos de sampleo](https://github.com/investigacion-operativa/pyOperativ/tree/main/simulacion/metodos_sampleo)
