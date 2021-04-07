@@ -5,7 +5,7 @@ Este repositorio contiene documentos teoricos, casos prácticos, implementacione
 
 | Clase | Título | Tema | Tipo |
 | --- | ----------- | ------ | --- |
-| 00 | [Introducción a Investigación Operativa, probabilidad y distribuciones]                                                                                  | Introducción y Repaso | Teoría |
+| 00 | [Introducción a Investigación Operativa, probabilidad y distribuciones](https://github.com/investigacion-operativa/pyOperativ/blob/main/02_repaso/clase01_repaso_probabilidad/0_ioperativ_clase00_teoria.pdf)                                                                                  | Introducción y Repaso | Teoría |
 |    | [Ejercicios de repaso de probabilidad](https://github.com/investigacion-operativa/pyOperativ/blob/main/02_repaso/clase01_repaso_probabilidad/repaso_probabilidad.pdf)                | Introducción y Repaso | Ejercicios |
 |    | [Notebook Repaso de probabilidad](https://github.com/investigacion-operativa/pyOperativ/blob/main/02_repaso/clase01_repaso_probabilidad/probabilidad_repaso.ipynb)                   | Introducción y Repaso | Casos y Código |
 |    | [Guía Anaconda y primeros pasos en Python](https://github.com/investigacion-operativa/pyOperativ/blob/main/01_intro_python/instalar_python_jupyter.pdf)  | Tutoriales Python | Teoría     |
