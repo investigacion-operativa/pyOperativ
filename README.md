@@ -1,12 +1,13 @@
 # *pyOperativ UTN.BA: Investigación Operativa con Python*
-Este repositorio contiene casos prácticos, implementaciones didácticas y ejercicios relacionados con el campo de la Investigación Operativa. Los casos fueron resueltos usando Jupyter Notebook en Python y no tienen el objetivo de ser implementaciones con Casos y Código optimizado.
+Este repositorio contiene documentos teoricos, casos prácticos, implementaciones didácticas y ejercicios relacionados con el campo de la Investigación Operativa utilizados en el curso I4051 de Ingenieria Industrial UTN FRBA. 
 
 ## Contenido:
 
 | Clase | Título | Tema | Tipo |
 | --- | ----------- | ------ | --- |
-| 00 | [Introducción a Investigación Operativa, probabilidad y distribuciones]                                                                                  | Introducción y Repaso | Teoría |
-|    | [Ejercicios de repaso de probabilidad](https://github.com/investigacion-operativa/pyOperativ/blob/main/02_repaso/clase01_repaso_probabilidad/repaso_probabilidad.pdf)                | Introducción y Repaso | Teoría |
+| 00 | [Introducción a Investigación Operativa, probabilidad y distribuciones](https://github.com/investigacion-operativa/pyOperativ/blob/main/02_repaso/clase01_repaso_probabilidad/0_ioperativ_clase00_teoria.pdf)                                                                                  | Introducción y Repaso | Teoría |
+|    | [Notebook Probabilidad Empirica](https://github.com/investigacion-operativa/pyOperativ/blob/main/02_repaso/clase01_repaso_probabilidad/0_ioperativ_clase00_repaso_proba.ipynb)                | Introducción y Repaso | Teoria |
+|    | [Ejercicios de repaso de probabilidad](https://github.com/investigacion-operativa/pyOperativ/blob/main/02_repaso/clase01_repaso_probabilidad/repaso_probabilidad.pdf)                | Introducción y Repaso | Ejercicios |
 |    | [Notebook Repaso de probabilidad](https://github.com/investigacion-operativa/pyOperativ/blob/main/02_repaso/clase01_repaso_probabilidad/probabilidad_repaso.ipynb)                   | Introducción y Repaso | Casos y Código |
 |    | [Guía Anaconda y primeros pasos en Python](https://github.com/investigacion-operativa/pyOperativ/blob/main/01_intro_python/instalar_python_jupyter.pdf)  | Tutoriales Python | Teoría     |
 |    | [Notebook primeros pasos en Python](https://github.com/investigacion-operativa/pyOperativ/blob/main/01_intro_python/python_primeros_pasos.ipynb)         | Tutoriales Python | Casos y Código     |
@@ -25,7 +26,7 @@ Este repositorio contiene casos prácticos, implementaciones didácticas y ejerc
 |    | [Caso de Markov y Marketing Online]                                                                                                                      | Markov            | Casos y Código |
 | 05 | [Cadenas de Markov y Procesos de Markov de parámetro continuo]                                                                                           | Markov            | Teoría |
 |    | [Ejercicio 7 de Cadenas de Markov](https://github.com/investigacion-operativa/pyOperativ/blob/main/04_markov/ejercicios/clase05_ejercicio_7/ejercicio_7.pdf)                                                                                                                     | Markov            | Ejercicios |
-|    | [Ejercicios de Markov en Python](https://github.com/investigacion-operativa/pyOperativ/tree/main/04_markov/casos_codigo/clase05_ejercicios_codigo)                                      | Markov            | Ejercicios |
+|    | [Ejercicios de Markov en Python](https://github.com/investigacion-operativa/pyOperativ/tree/main/04_markov/casos_codigo/clase05_ejercicios_codigo)                                      | Markov            | Casos y Código |
 | 06 | [Introducción a Procesos de Nacimiento y Muerte, Procesos de parámetro continuo, Filas M=1]                                                              | Markov y Filas de espera   | Teoría |
 |    | [Ejercicio Markov de parámetro continuo]                                                                                                                 | Markov            | Ejercicios |
 |    | [Ejercicio 1 de Filas de Espera](https://github.com/investigacion-operativa/pyOperativ/blob/main/05_filas/ejercicios/clase06_ejercicio_1/ejercicio_filas_01_prez.pdf)                                                                                                                       | Filas de espera   | Ejercicios |
