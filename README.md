@@ -3,6 +3,8 @@ Este repositorio contiene documentos teoricos, casos prácticos, implementacione
 
 Docentes: Martin Palazzo, Rodrigo Maranzana, Milagros Bochor, Gabriel Boso, Juan Piro.
 
+asd
+
 ## Contenido:
 
 | Clase | Título | Tema | Tipo |
