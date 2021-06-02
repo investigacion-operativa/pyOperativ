@@ -7,7 +7,7 @@ Docentes: Martin Palazzo, Rodrigo Maranzana, Milagros Bochor, Gabriel Boso, Juan
 
 | Item | Detalle |
 | --- | ----------- |
-[Cronograma 1er cuatrimestre] (https://github.com/investigacion-operativa/pyOperativ/blob/main/00_hoja_de_ruta_IO/ioperativ_2021_cronograma_1semestre.xlsx) | Cronograma con el detalle fecha a fecha de los temas, ejercicios y codigos realizados en clase.
+[Cronograma 1er cuatrimestre](https://github.com/investigacion-operativa/pyOperativ/blob/main/00_hoja_de_ruta_IO/ioperativ_2021_cronograma_1semestre.xlsx) | Cronograma con el detalle fecha a fecha de los temas, ejercicios y codigos realizados en clase.
 
 ## Contenido:
 
