@@ -3,6 +3,12 @@ Este repositorio contiene documentos teoricos, casos prácticos, implementacione
 
 Docentes: Martin Palazzo, Rodrigo Maranzana, Milagros Bochor, Gabriel Boso, Juan Piro.
 
+## Elementos importantes:
+
+| Item | Detalle |
+| --- | ----------- |
+[Cronograma 1er cuatrimestre] (https://github.com/investigacion-operativa/pyOperativ/blob/main/00_hoja_de_ruta_IO/ioperativ_2021_cronograma_1semestre.xlsx) | Cronograma con el detalle fecha a fecha de los temas, ejercicios y codigos realizados en clase.
+
 ## Contenido:
 
 | Clase | Título | Tema | Tipo |
