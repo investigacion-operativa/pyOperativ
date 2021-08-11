@@ -71,6 +71,7 @@ Docentes: Martin Palazzo, Rodrigo Maranzana, Milagros Bochor, Gabriel Boso, Juan
 |    | [Shortest Path: armando mi propio Google Maps](https://github.com/investigacion-operativa/pyOperativ/blob/main/06_grafos/casos_codigo/clase12_mi_gmaps/graph_search_maps.ipynb) | Grafos   | Casos y Código |
 | 13 | [Caso de bicicletas públicas en CABA]                                                                                                                    | Grafos   | Casos y Código |
 |    | [Línea de terminado de Tesla Motors](https://github.com/investigacion-operativa/pyOperativ/blob/main/03_simulacion/casos_codigo/clase13_caso_linea_tesla/simulacion_discreta_tesla.pdf) | Simulación      | Casos y Código |
+| 14 | [Introduccion a la Programacion Lineal](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/teoria/io2020_clase14_intro_optimizacion.pdf)                                                                                                                    | Programacion matematica   | Teoria |
 |  |  |  |  |
 | AD | [Caso de filas complejas con Monte Carlo](https://github.com/investigacion-operativa/pyOperativ/blob/main/05_filas/casos_codigo/caso_fila_compleja/simulacion_fila_compleja.pdf) | Filas de espera | Casos y Código |
 | AD | [Notebook Caso de filas complejas con Monte Carlo](https://github.com/investigacion-operativa/pyOperativ/blob/main/05_filas/casos_codigo/caso_fila_compleja/simulacion_fila_compleja.ipynb) | Filas de espera | Casos y Código |
