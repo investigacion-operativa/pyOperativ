@@ -75,8 +75,6 @@ Docentes: Martin Palazzo, Rodrigo Maranzana, Milagros Bochor, Gabriel Boso, Juan
 | 15 | [Introducción a Programación Matemática y Método Gráfico para Programación Lineal](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/teoria/io2021_clase15_intro_prog_lin_metodo_grafico.pdf)                                                                                                                    | Programacion matematica   | Teoria |
 |    | [Ejercicio 7 de Programación Lineal](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/ejercicios/io2021_clase15_prog_lin_ejercicio07_resuelto.pdf)                                                                                                                    | Programacion matematica   | Ejercicios |
 | 16 | [Programación Lineal: Casos particulares método gráfico](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/teoria/io2021_clase16_casos_particulares_grafico.pdf)   | Programacion matematica   | Teoria |
-
-
 |  |  |  |  |
 | AD | [Caso de filas complejas con Monte Carlo](https://github.com/investigacion-operativa/pyOperativ/blob/main/05_filas/casos_codigo/caso_fila_compleja/simulacion_fila_compleja.pdf) | Filas de espera | Casos y Código |
 | AD | [Notebook Caso de filas complejas con Monte Carlo](https://github.com/investigacion-operativa/pyOperativ/blob/main/05_filas/casos_codigo/caso_fila_compleja/simulacion_fila_compleja.ipynb) | Filas de espera | Casos y Código |
