@@ -79,6 +79,7 @@ Docentes: Martin Palazzo, Rodrigo Maranzana, Milagros Bochor, Gabriel Boso, Juan
 |    | [Programación Lineal: Presentación SIMPLEX](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/teoria/io2021_clase16_simplex.pdf) | Programacion matematica   | Teoria |
 | 17 | [Programación Lineal: SIMPLEX ejercicio incial](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/teoria/io2021_clase17_simplex_inicial.pdf) | Programacion matematica   | Teoria |
 |  | [Ejercicio 9 de Programacion Lineal](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/ejercicios/io2021_clase17_ejercicio9_simplex_resuelto.pdf) | Programacion matematica   | Ejercicios |
+|  | [Software de Optimización + Planificación Agregada](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/casos_codigo/caso_planificacion_agregada/io2021_clase17_software.pdf) | Programacion matematica   | Casos y Código |
 |  | [Optimización de plan agregado de Producción (MILP)](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/casos_codigo/caso_planificacion_agregada/planificacion.ipynb) | Programacion matematica   | Casos y Código |
 |  |  |  |  |
 | AD | [Caso de filas complejas con Monte Carlo](https://github.com/investigacion-operativa/pyOperativ/blob/main/05_filas/casos_codigo/caso_fila_compleja/simulacion_fila_compleja.pdf) | Filas de espera | Casos y Código |
