@@ -87,6 +87,7 @@ Docentes: Rodrigo Maranzana, Milagros Bochor, Gabriel Boso, Juan Piro, Martin Pa
 |  | [Prog. Lineal: Casos particulares SIMPLEX 2](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/teoria/io2021_clase18_casos_particulares_2_simplex.pdf) | Programacion matematica   | Teoría |
 | 19 | [Programación Lineal: Flujo Minimo Costo y Transporte](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/teoria/io2021_clase19_LP_min_flow_transporte.pdf) | Programacion matematica   | Teoria |
 |  | [Prog. Lineal: Notebook Python Transporte](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/casos_codigo/ioperativ_clase19_linprog_transporte.ipynb) | Programacion matematica   | Casos y Código |
+| 20 | [Programación Lineal: Método de la M](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/teoria/io2020_clase20_metodo_m.pdf) | Programacion matematica   | Teoria |
 |  |  |  |  |
 | AD | [Caso de filas complejas con Monte Carlo](https://github.com/investigacion-operativa/pyOperativ/blob/main/05_filas/casos_codigo/caso_fila_compleja/simulacion_fila_compleja.pdf) | Filas de espera | Casos y Código |
 | AD | [Notebook Caso de filas complejas con Monte Carlo](https://github.com/investigacion-operativa/pyOperativ/blob/main/05_filas/casos_codigo/caso_fila_compleja/simulacion_fila_compleja.ipynb) | Filas de espera | Casos y Código |
