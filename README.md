@@ -91,6 +91,9 @@ Docentes: Rodrigo Maranzana, Milagros Bochor, Gabriel Boso, Juan Piro, Martin Pa
 |  | [Programación Lineal: Notebook toy example Primal-Dual](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/casos_codigo/ioperativ_clase20_linprog_primal_dual.ipynb) | Programacion matematica   | Casos y Codigo |
 |  | [Programación Lineal: Ejercicio Primal-Dual](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/ejercicios/ioperativ_clase20_linprog_ejercicio_primal_dual.pptx.pdf) | Programacion matematica   | Ejercicios |
 |  | [Programación Lineal: Método de la M](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/teoria/io2020_clase20_metodo_m.pdf) | Programacion matematica   | Teoria |
+| 21 | [Programación Entera: Set covering](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/teoria/io2021_clase21_prog_entera.pdf) | Programacion matematica   | Teoria |
+|  | [Programación Entera: Notebook set covering](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/casos_codigo/ioperativ_clase21_integerprogramming_setcovering.ipynb) | Programacion matematica   | Casos y Codigo |
+|  | [Programación Lineal: Camino mas corto](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/casos_codigo/ioperativ_clase21_shortest_path.ipynb ) | Programacion matematica   | Casos y Codigo |
 |  |  |  |  |
 | AD | [Caso de filas complejas con Monte Carlo](https://github.com/investigacion-operativa/pyOperativ/blob/main/05_filas/casos_codigo/caso_fila_compleja/simulacion_fila_compleja.pdf) | Filas de espera | Casos y Código |
 | AD | [Notebook Caso de filas complejas con Monte Carlo](https://github.com/investigacion-operativa/pyOperativ/blob/main/05_filas/casos_codigo/caso_fila_compleja/simulacion_fila_compleja.ipynb) | Filas de espera | Casos y Código |
