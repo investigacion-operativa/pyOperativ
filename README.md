@@ -100,9 +100,9 @@ Docentes: Rodrigo Maranzana, Milagros Bochor, Gabriel Boso, Juan Piro, Martin Pa
 |  | [Programación Entera: Ejercicio Transporte](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/ejercicios/ioperativ_clase22_asignacion_ejercicio_transporte.pptx.pdf) | Programacion matematica   | Ejercicios |
 | 23 | [Programación No Lineal: intro a inventarios](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/teoria/ioperativ_clase23_prog_nolineal.pdf) | Programacion matematica   | Teoria |
 |  | [Programación No Lineal: Notebook Python funciones no lineales](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/casos_codigo/ioperativ_clase23_programacion_nolineal.ipynb) | Programacion matematica   | Casos y Codigo |
-| 24 | [Programación No Lineal: Gradiente descendiente]() | Programacion matematica   | Teoria |
+| 24 | [Programación No Lineal: Gradiente descendiente](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/teoria/ioperativ_clase24_prog_nolineal.pdf) | Programacion matematica   | Teoria |
 |  | [Programación No Lineal: Notebook Python Portfolio de Inversion](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/casos_codigo/ioperativ_clase24_convex_opt_portfolio.ipynb) | Programacion matematica   | Casos y Codigo |
-|  | [Programación No Lineal: Notebook Python Gradiente Descendiente y Scipy]() | Programacion matematica   | Casos y Codigo |
+|  | [Programación No Lineal: Notebook Python Gradiente Descendiente y Scipy](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/casos_codigo/ioperativ_clase24_programacion_nolineal.ipynb) | Programacion matematica   | Teoria y Codigo |
 |  |  |  |  |
 | AD | [Caso de filas complejas con Monte Carlo](https://github.com/investigacion-operativa/pyOperativ/blob/main/05_filas/casos_codigo/caso_fila_compleja/simulacion_fila_compleja.pdf) | Filas de espera | Casos y Código |
 | AD | [Notebook Caso de filas complejas con Monte Carlo](https://github.com/investigacion-operativa/pyOperativ/blob/main/05_filas/casos_codigo/caso_fila_compleja/simulacion_fila_compleja.ipynb) | Filas de espera | Casos y Código |
