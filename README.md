@@ -12,6 +12,9 @@ Docentes: Rodrigo Maranzana, Milagros Bochor, Gabriel Boso, Juan Piro, Martin Pa
 | [Guía Anaconda y primeros pasos en Python](https://github.com/investigacion-operativa/pyOperativ/blob/main/01_intro_python/instalar_python_jupyter.pdf)  | Tutorial para dar los primeros pasos en Jupyter Notebooks con Anaconda |
 | [Notebook primeros pasos en Python](https://github.com/investigacion-operativa/pyOperativ/blob/main/01_intro_python/python_primeros_pasos.ipynb)         | Jupyter Notebook para ejecutar los primeros comandos en Python |
 
+## Clases grabadas:
+[Link a clases grabadas](https://drive.google.com/drive/folders/1ha6Q0ST4XdDwZlPzwr2JVHprdiKvm39f?usp=sharing)
+
 ## Contenido:
 
 | Clase | Título | Tema | Tipo |
@@ -104,6 +107,8 @@ Docentes: Rodrigo Maranzana, Milagros Bochor, Gabriel Boso, Juan Piro, Martin Pa
 |  | [Programación No Lineal: Notebook Python Portfolio de Inversion](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/casos_codigo/ioperativ_clase24_convex_opt_portfolio.ipynb) | Programacion matematica   | Casos y Codigo |
 |  | [Programación No Lineal: Notebook Python Gradiente Descendiente y Scipy](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/casos_codigo/ioperativ_clase24_programacion_nolineal.ipynb) | Programacion matematica   | Teoria y Codigo |
 |  | [Programación No Lineal: Inventarios con precio variable](https://github.com/investigacion-operativa/pyOperativ/blob/main/08_inventarios/ejercicios/io2021_clase24_inventarios_ejercicio4.pdf) | Programacion matematica   | Ejercicios |
+| 25 | [Programación No Lineal: Inventario multiproducto con restricciones](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/teoria/ioperativ_clase25_inventarios_multi_producto_restriccion.pdf) | Programacion matematica   | Teoria |
+|  | [Programación No Lineal: Notebook Python Inventario multiproducto con restricciones](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/casos_codigo/ioperativ_clase25_multiproducto_restriccion.ipynb ) | Programacion matematica   | Casos y Codigo |
 |  |  |  |  |
 | AD | [Caso de filas complejas con Monte Carlo](https://github.com/investigacion-operativa/pyOperativ/blob/main/05_filas/casos_codigo/caso_fila_compleja/simulacion_fila_compleja.pdf) | Filas de espera | Casos y Código |
 | AD | [Notebook Caso de filas complejas con Monte Carlo](https://github.com/investigacion-operativa/pyOperativ/blob/main/05_filas/casos_codigo/caso_fila_compleja/simulacion_fila_compleja.ipynb) | Filas de espera | Casos y Código |
