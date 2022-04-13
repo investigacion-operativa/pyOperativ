@@ -13,7 +13,8 @@ Docentes: Rodrigo Maranzana, Augusto Guastavino, Martin Palazzo.
 | [Notebook primeros pasos en Python](https://github.com/investigacion-operativa/pyOperativ/blob/main/01_intro_python/python_primeros_pasos.ipynb)         | Jupyter Notebook para ejecutar los primeros comandos en Python |
 
 ## Clases grabadas:
-[Link a clases grabadas](https://drive.google.com/drive/folders/1ha6Q0ST4XdDwZlPzwr2JVHprdiKvm39f?usp=sharing)
+[Link a clases grabadas 2022](https://drive.google.com/drive/folders/1xQzn2D8LJA6VWxj9gESgmcAQY34Wocrw?usp=sharing)
+[Link a clases grabadas 2021](https://drive.google.com/drive/folders/1ha6Q0ST4XdDwZlPzwr2JVHprdiKvm39f?usp=sharing)
 
 ## Contenido:
 
