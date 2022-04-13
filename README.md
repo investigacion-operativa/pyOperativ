@@ -14,6 +14,7 @@ Docentes: Rodrigo Maranzana, Augusto Guastavino, Martin Palazzo.
 
 ## Clases grabadas:
 | Grabaciones |
+| ------- |
 | [Link a clases grabadas 2022](https://drive.google.com/drive/folders/1xQzn2D8LJA6VWxj9gESgmcAQY34Wocrw?usp=sharing) |
 | [Link a clases grabadas 2021](https://drive.google.com/drive/folders/1ha6Q0ST4XdDwZlPzwr2JVHprdiKvm39f?usp=sharing) |
 
