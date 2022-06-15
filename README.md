@@ -7,7 +7,7 @@ Docentes: Rodrigo Maranzana, Augusto Guastavino, Martin Palazzo.
 
 | Item | Detalle |
 | --- | ----------- |
-| [Cronograma 1er cuatrimestre](https://github.com/investigacion-operativa/pyOperativ/blob/main/00_hoja_de_ruta_IO/ioperativ_2021_cronograma_1semestre.xlsx) | Cronograma con el detalle fecha a fecha de los temas, ejercicios y codigos realizados en clase.|
+| [Cronograma 1er cuatrimestre](https://docs.google.com/spreadsheets/d/1-yk75yQfCGT07z1I2CtfcK_IPTHjarab/edit?usp=sharing&ouid=102479864709224791366&rtpof=true&sd=true) | Cronograma con el detalle fecha a fecha de los temas, ejercicios y codigos realizados en clase.|
 | [Guia de ejercicios](https://github.com/investigacion-operativa/pyOperativ/blob/main/00_hoja_de_ruta_IO/IO_UTNFRBA_guia_ejercicios_palazzo.pdf) | Listado de ejercicios sin resolver por tema.|
 | [Guía Anaconda y primeros pasos en Python](https://github.com/investigacion-operativa/pyOperativ/blob/main/01_intro_python/instalar_python_jupyter.pdf)  | Tutorial para dar los primeros pasos en Jupyter Notebooks con Anaconda |
 | [Notebook primeros pasos en Python](https://github.com/investigacion-operativa/pyOperativ/blob/main/01_intro_python/python_primeros_pasos.ipynb)         | Jupyter Notebook para ejecutar los primeros comandos en Python |
