@@ -1,7 +1,7 @@
 # *pyOperativ UTN.BA: Investigación Operativa con Python*
 Este repositorio contiene documentos teoricos, casos prácticos, implementaciones didácticas y ejercicios relacionados con el campo de la Investigación Operativa utilizados en el curso I4051 de Ingenieria Industrial UTN FRBA. 
 
-Docentes: Rodrigo Maranzana, Augusto Guastavino, Martin Palazzo.
+Docentes: Martin Palazzo, Rodrigo Maranzana.
 
 ## Elementos importantes:
 
