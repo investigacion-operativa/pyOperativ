@@ -1,7 +1,7 @@
 # *pyOperativ UTN.BA: Investigación Operativa con Python*
 Este repositorio contiene documentos teoricos, casos prácticos, implementaciones didácticas y ejercicios relacionados con el campo de la Investigación Operativa utilizados en el curso I4051 de Ingenieria Industrial UTN FRBA. 
 
-Docentes: Rodrigo Maranzana, Augusto Guastavino, Martin Palazzo.
+Docentes: Martin Palazzo, Rodrigo Maranzana.
 
 ## Elementos importantes:
 
@@ -64,6 +64,7 @@ Docentes: Rodrigo Maranzana, Augusto Guastavino, Martin Palazzo.
 |    | [Ejercicio 2 de Proyectos](https://github.com/investigacion-operativa/pyOperativ/blob/main/06_grafos/ejercicios/clase09_ejercicio_2/ejercicio_2.pdf)                                                                                                                             | Grafos   | Ejercicios |
 |    | [Notebook de Introducción a Grafos](https://github.com/investigacion-operativa/pyOperativ/blob/main/06_grafos/casos_codigo/ioperativ_clase09_grafos.ipynb)                                                                                                                      | Grafos   | Casos y Código |
 |    | [Apunte CPM](https://github.com/investigacion-operativa/pyOperativ/blob/main/06_grafos/teoria/ioperativ_clase09_cc_apunte.pdf)                                                                                                                      | Grafos   | Teoria |
+|    | [Borrador Python CPM conceptos](https://github.com/investigacion-operativa/pyOperativ/blob/main/06_grafos/casos_codigo/clase09_cpm_intro_codigo/primeros_pasos_CPM_codigo.ipynb)                                                                                                                      | Grafos   | Casos y Código |
 | 10 | [Método de CPM, calendario de fecha temprana y tardía](https://github.com/investigacion-operativa/pyOperativ/blob/main/06_grafos/teoria/ioperativ_clase10_c_critico_presentacion.pdf)                                                                                                   | Grafos   | Teoría |
 |    | [Ejercicio 3 de Proyectos](https://github.com/investigacion-operativa/pyOperativ/blob/main/06_grafos/ejercicios/clase10_ejercicio_3/ejercicio_3.pdf)                                                                                                                             | Grafos   | Ejercicios |
 |    | [Notebook de CPM en Python]                                                                                                                              | Grafos   | Casos y Código |
