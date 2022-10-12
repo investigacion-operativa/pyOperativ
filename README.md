@@ -11,6 +11,9 @@ Docentes: Martin Palazzo, Rodrigo Maranzana.
 | [Guia de ejercicios](https://github.com/investigacion-operativa/pyOperativ/blob/main/00_hoja_de_ruta_IO/IO_UTNFRBA_guia_ejercicios_palazzo.pdf) | Listado de ejercicios sin resolver por tema.|
 | [Guía Anaconda y primeros pasos en Python](https://github.com/investigacion-operativa/pyOperativ/blob/main/01_intro_python/instalar_python_jupyter.pdf)  | Tutorial para dar los primeros pasos en Jupyter Notebooks con Anaconda |
 | [Notebook primeros pasos en Python](https://github.com/investigacion-operativa/pyOperativ/blob/main/01_intro_python/python_primeros_pasos.ipynb)         | Jupyter Notebook para ejecutar los primeros comandos en Python |
+| Bibliografia 1         | Hillier, F. S., & Price, C. C. (2001). International Series in Operations Research & Management Science. |
+| Bibliografia 2         | Taha, H. A. (2003). Operations research: an introduction. Pearson Educación. |
+| Bibliografia 3         | Winston, W. L., & Goldberg, J. B. (2004). Operations research: applications and algorithms (Vol. 3). Belmont: Thomson Brooks/Cole. |
 
 ## Clases grabadas:
 | Grabaciones |
@@ -91,7 +94,7 @@ Docentes: Martin Palazzo, Rodrigo Maranzana.
 |  | [Prog. Lineal: Notebook Python Analisis de Sensibilidad](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/casos_codigo/ioperativ_clase18_linprog_analisis_sensibilidad.ipynb) | Programacion matematica   | Casos y Código |
 |  | [Prog. Lineal: Casos particulares SIMPLEX 1](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/teoria/io2021_clase18_casos_particulares_1_simplex.pdf) | Programacion matematica   | Teoría |
 |  | [Prog. Lineal: Casos particulares SIMPLEX 2](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/teoria/io2021_clase18_casos_particulares_2_simplex.pdf) | Programacion matematica   | Teoría |
-| 19 | [Programación Lineal: Flujo Minimo Costo y Transporte](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/teoria/io2021_clase19_LP_min_flow_transporte.pdf) | Programacion matematica   | Teoria |
+| 19 | [Programación Lineal: Flujo Minimo Costo y Transporte](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/teoria/io2022_clase19_LP_min_flow_transporte.pdf) | Programacion matematica   | Teoria |
 |  | [Prog. Lineal: Notebook Python Transporte](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/casos_codigo/ioperativ_clase19_linprog_transporte.ipynb) | Programacion matematica   | Casos y Código |
 |  | [Prog. Lineal: Ejercicio Simplex Resuelto](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/ejercicios/io2021_clase19_ejercicio10_simplex_resuelto.pdf.pptx.pdf) | Programacion matematica | Ejercicios |
 | 20 | [Programación Lineal: Primal-Dual](https://github.com/investigacion-operativa/pyOperativ/blob/main/07_programacion_matematica/teoria/io2021_clase20_prog_lin_primal_dual.pdf) | Programacion matematica   | Teoria |
